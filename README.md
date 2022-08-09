@@ -22,25 +22,39 @@ It feels like working with a new software without knowing what you're actually d
 
 I added navbar which has two links, one to home page and one for contact form which doesn't work at the moment
 
-- [ ] make contact link in navbar work
+- [x] make contact link in navbar work
 
 I also would like to add these features:
 
-- [ ] a website logo
-- [ ] a nice footer
+- [x] a website logo
+- [x] a nice footer
+  - But it's not nice... it's just there
+
+Added later:
+
+It's almost 5 pm and the wordpress assignment's deadline is close. Now I know how to add block, add groups, and I know
+how to remove them. Also got familiar with different categories of blocks which are a lot, did some visual styling
+instead of using css which was a blast for me who doesn't like css.
+
+It was also kind of depressing to see simple things that developers have to struggle a lot to make,
+can be done this simple without any coding knowledge. 
+
+I probably would never touch wordpress again. Kind of miss my coding now
+
 
 ## Must have features 
 Below you'll see what my coaches asked us to prepare.
-- [ ] At least 2 pages
+- [x] At least 2 pages
   - Both have to have a custom background color, not the original one! (it can be the same color on both pages)
   - Change the footer credit, notice how we cannot remove it? Optionally try hiding it anyway!
-- [ ] At least 1 block of every category
+- [x] At least 1 block of every category
   - They can be spread out across all of your pages
   - If you can't find one in the category that does not require a premium account, skip the category.
 - [ ] At least 1 hack block!
     - step 12: this block should be styled not by wordpress, but by your own injected CSS
     - Normally we need to get a premium account to add custom css, but there are sneaky ways around it.
-- [ ] A contact form
-- [ ] A font chosen by you
+- [x] A contact form
+- [x] A font chosen by you
 - [ ] A README on your repository linking to your website
+  - working on it
 
